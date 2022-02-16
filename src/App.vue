@@ -3,8 +3,8 @@
  * @version:
  * @Author: 刘熠
  * @Date: 2022-01-25 14:46:46
- * @LastEditors:
- * @LastEditTime: 2022-01-25 15:03:00
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2022-02-11 15:45:50
 -->
 <script setup lang="ts">
 // This starter template is using Vue 3 <script setup> SFCs
@@ -22,6 +22,5 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
