@@ -1,4 +1,4 @@
-name: my-web
+name: my-web-vue3
 on:
   push:
     branchs:
